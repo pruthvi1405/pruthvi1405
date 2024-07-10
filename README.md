@@ -4,19 +4,19 @@
 </div><br/>
 
 <h1 align="center">Hi 👋, I'm Pruthvi Niranjan</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate FullStack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthvi1405&label=Profile%20views&color=0e75b6&style=flat" alt="pruthvi1405" /> </p>
 
-- 🔭 I’m currently working on [Netflix Clone](https://netflix-clone-559b3.web.app/)
+- 🔭 I’m currently working on Chatbot using OpenAI
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pruthvi1405?tab=repositories](https://github.com/pruthvi1405?tab=repositories)
 
-- 💬 Ask me about **React,JS and MERN**
+- 💬 Ask me about **Python, Flask and MERN**
 
 - 📫 How to reach me **niranjan.pr@northeastern.edu**
 
