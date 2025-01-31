@@ -61,9 +61,8 @@ Continuously expanding my expertise in:
 ---
 
 ## 🏆 Certifications & Achievements
-- **AWS Certified Developer – Associate**
-- **AWS Certified Cloud Practitioner**
-- **Top 800 globally in a coding competition with over 25,000 participants**
+
+- **Top 1000 globally in a coding competition with over 25,000 participants**
 - **Reduced technical debt by 20%** by migrating legacy systems to **modern microservices architecture**.
 
 ---
