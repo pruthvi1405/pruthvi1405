@@ -1,37 +1,90 @@
+# Hi there 👋
 
-<div>
-  <img align="right" alt="Coding" src="https://www.creative2.com/wp-content/uploads/2021/10/Career-Page-Banner_Full-Stack-Developer.jpg">
-</div><br/>
+Welcome to my GitHub profile! I'm **Pruthvi Niranjan**, a passionate **Software Engineer and Cloud Developer**, dedicated to solving complex challenges with scalable and efficient solutions. I have hands-on experience in **backend development, cloud computing, DevOps, and AI-driven applications**. Here's a snapshot of who I am and what I do:
 
-<h1 align="center">Hi 👋, I'm Pruthvi Niranjan</h1>
-<h3 align="center">A passionate FullStack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+---
+
+## 🔭 What I’m Working On
+
+### ♟️ **ChessMaster** *(In Progress)*
+A feature-rich **real-time chess game** with an interactive user experience and integrated communication tools.
+- **Features:**
+  - **Playable Chess Game:** Fully functional chess game with real-time gameplay.
+  - **User Authentication:** Secure login system to manage player profiles and match history.
+  - **Video Call & Chat Features:** Enables seamless communication via WebRTC and WebSockets.
+- **Technologies Used:** **TypeScript, Java (Backend), WebRTC (Video Calls), WebSockets (Chat), React, TailwindCSS**
+- **Goal:** Build a next-generation chess platform with real-time multiplayer features and interactive communication tools.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthvi1405&label=Profile%20views&color=0e75b6&style=flat" alt="pruthvi1405" /> </p>
+---
 
-- 🔭 I’m currently working on Chatbot using OpenAI
+## 💻 What I Bring to the Table
 
-- 🌱 I’m currently learning **AWS**
+### **Software Engineering & Cloud Development**
+- **Backend Development:** Proficient in **Java, Python, and TypeScript**, with experience in **Spring Boot, Flask, and Node.js**.
+- **Cloud Computing & DevOps:** Hands-on experience with **AWS, Docker, Kubernetes, Terraform, Jenkins, and CI/CD automation**.
+- **Database Management:** Skilled in **SQL (PostgreSQL, MySQL, Oracle)** and **NoSQL (MongoDB, Firestore, Redis)** databases.
+- **RESTful & GraphQL APIs:** Expertise in designing, implementing, and optimizing APIs for **scalability and performance**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/pruthvi1405?tab=repositories](https://github.com/pruthvi1405?tab=repositories)
+### **Full-Stack Web Development**
+- **Frontend Technologies:** Experience with **ReactJS, AngularJS, and modern UI frameworks (TailwindCSS, Bootstrap)**.
+- **State Management:** Proficient in using **Redux, React Context API**, and **optimized rendering techniques**.
+- **Authentication & Security:** Implemented **OAuth, JWT authentication**, and **role-based access control (RBAC)** for secure applications.
 
-- 💬 Ask me about **Python, Flask and MERN**
+---
 
-- 📫 How to reach me **niranjan.pr@northeastern.edu**
+## 🌱 What I’m Learning
+Continuously expanding my expertise in:
+- **Event-driven architectures and real-time communications** (Kafka, WebSockets, SignalR).
+- **AI-driven automation** with LLMs (OpenAI, Mistral) and **NLP applications**.
+- **Advanced microservices design patterns** and **cloud-native solutions**.
 
-- ⚡ Fun fact **I am into sports(badminton and swimming).**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pruthvi-niranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pruthvi-niranjan" height="30" width="40" /></a>
-<a href="https://fb.com/pruthvi niranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pruthvi niranjan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pruthviniranjan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pruthviniranjan01" height="30" width="40" /></a>
-</p>
+## 💡 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 📈 **Trading Platform**
+- **Tech Stack:** **Python, AWS DynamoDB, Lambda, CloudWatch**
+- **Description:** Developed a **real-time trade execution platform** with **voice command integration**.
+- **Impact:** Reduced trade execution time by **90%**, leveraging AWS services for **scalability and reliability**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthvi1405&show_icons=true&locale=en&layout=compact" alt="pruthvi1405" /></p>
+### ☁️ **AWS Cloud-Native Course Registration System**
+- **Tech Stack:** **Java, Spring Boot, AWS (EC2, RDS, S3), Terraform, GitHub Actions**
+- **Description:** Designed a **secure and scalable course registration system** with **JWT-based authentication** and **role-based authorization**.
+- **Infrastructure as Code (IaC):** Implemented **Terraform-based AWS infrastructure** and **automated CI/CD pipelines**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pruthvi1405&show_icons=true&locale=en" alt="pruthvi1405" /></p>
+### 🤖 **Chatbot**
+- **Tech Stack:** **Flask, ReactJS, OpenAI API, PostgreSQL, Redis**
+- **Description:** Built an **AI-powered chatbot** that classifies queries and dynamically generates responses.
+- **Impact:** Improved **accuracy by 85%** using **Naive Bayes classifiers** and **automated SQL query generation**.
+
+---
+
+## 🏆 Certifications & Achievements
+- **AWS Certified Developer – Associate**
+- **AWS Certified Cloud Practitioner**
+- **Top 800 globally in a coding competition with over 25,000 participants**
+- **Reduced technical debt by 20%** by migrating legacy systems to **modern microservices architecture**.
+
+---
+
+## 💬 Ask Me About
+- **Backend system optimizations** for high-performance applications.
+- **Cloud infrastructure automation** and **scalable deployment strategies**.
+- **AI-powered automation and workflow optimization**.
+
+---
+
+## 📫 Contact Me
+- **Email:** [pruthviniranjan14@gmail.com](mailto:pruthviniranjan14@gmail.com)
+- **LinkedIn:** [Pruthvi Niranjan](https://www.linkedin.com/in/pruthvi-niranjan/)
+- **GitHub:** [Pruthvi Niranjan](https://github.com/pruthviniranjan)
+
+---
+
+## 😄 Fun Fact
+I’m a **three-time National Collegiate Badminton Champion**, demonstrating **discipline, strategy, and resilience**—both in **sports** and **software engineering**!
+
+---
+
+Thank you for visiting! Feel free to explore my projects or reach out for collaboration—I’m excited to connect and discuss opportunities to innovate and build impactful solutions. 🚀
