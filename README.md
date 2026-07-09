@@ -1,89 +1,51 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm **Pruthvi Niranjan**, a passionate **Software Engineer and Cloud Developer**, dedicated to solving complex challenges with scalable and efficient solutions. I have hands-on experience in **backend development, cloud computing, DevOps, and AI-driven applications**. Here's a snapshot of who I am and what I do:
+I'm **Pruthvi Niranjan**, a Software Engineer building AI-driven backend systems and cloud-native infrastructure — from LLM-integrated production services to distributed microservices architectures.
 
 ---
 
-## 🔭 What I’m Working On
+## 🔭 What I'm Working On
 
-### ♟️ **ChessMaster** *(In Progress)*
-A feature-rich **real-time chess game** with an interactive user experience and integrated communication tools.
-- **Features:**
-  - **Playable Chess Game:** Fully functional chess game with real-time gameplay.
-  - **User Authentication:** Secure login system to manage player profiles and match history.
-  - **Video Call & Chat Features:** Enables seamless communication via WebRTC and WebSockets.
-- **Technologies Used:** **TypeScript, Java (Backend), WebRTC (Video Calls), WebSockets (Chat), React, TailwindCSS**
-- **Goal:** Build a next-generation chess platform with real-time multiplayer features and interactive communication tools.
-
+### 🤖 **Agentic Log Triage Assistant** *(In Progress)*
+Extending my earlier RAG work (DevLog AI) into an agentic system — one that doesn't just answer questions about logs, but autonomously classifies severity, decides when to escalate vs. auto-remediate, and acts through tool-calling with human-in-the-loop approval for irreversible actions. Details and repo coming as the build progresses.
 
 ---
 
 ## 💻 What I Bring to the Table
 
-### **Software Engineering & Cloud Development**
-- **Backend Development:** Proficient in **Java, Python, and TypeScript**, with experience in **Spring Boot, Flask, and Node.js**.
-- **Cloud Computing & DevOps:** Hands-on experience with **AWS, Docker, Kubernetes, Terraform, Jenkins, and CI/CD automation**.
-- **Database Management:** Skilled in **SQL (PostgreSQL, MySQL, Oracle)** and **NoSQL (MongoDB, Firestore, Redis)** databases.
-- **RESTful & GraphQL APIs:** Expertise in designing, implementing, and optimizing APIs for **scalability and performance**.
+**Backend & AI Systems**
+Python, Node.js, FastAPI, OpenAI API, RAG pipelines (ChromaDB, semantic retrieval), LLM integration in production services.
 
-### **Full-Stack Web Development**
-- **Frontend Technologies:** Experience with **ReactJS, AngularJS, and modern UI frameworks (TailwindCSS, Bootstrap)**.
-- **State Management:** Proficient in using **Redux, React Context API**, and **optimized rendering techniques**.
-- **Authentication & Security:** Implemented **OAuth, JWT authentication**, and **role-based access control (RBAC)** for secure applications.
+**Cloud & Infrastructure**
+AWS (ECS, RDS, DynamoDB, IAM, VPC), Azure, Docker, CI/CD (GitHub Actions), distributed tracing and telemetry.
 
----
+**Frontend**
+React, TypeScript — built client-facing dashboards for real-time analytics and system configuration.
 
-## 🌱 What I’m Learning
-Continuously expanding my expertise in:
-- **Event-driven architectures and real-time communications** (Kafka, WebSockets, SignalR).
-- **AI-driven automation** with LLMs (OpenAI, Mistral) and **NLP applications**.
-- **Advanced microservices design patterns** and **cloud-native solutions**.
+**Databases**
+PostgreSQL, MySQL, MongoDB, Redis.
 
 ---
 
 ## 💡 Projects
 
-### 📈 **Trading Platform**
-- **Tech Stack:** **Python, AWS DynamoDB, Lambda, CloudWatch**
-- **Description:** Developed a **real-time trade execution platform** with **voice command integration**.
-- **Impact:** Reduced trade execution time by **90%**, leveraging AWS services for **scalability and reliability**.
+### DevLog AI — Intelligent Engineering Log Analyzer
+Built a RAG-powered log analysis tool using ChromaDB and OpenAI GPT models to let engineers query technical logs in plain English, containerized with Docker behind a FastAPI REST interface. Cut debugging and lookup time by 2+ hours/day in testing.
 
-### ☁️ **AWS Cloud-Native Course Registration System**
-- **Tech Stack:** **Java, Spring Boot, AWS (EC2, RDS, S3), Terraform, GitHub Actions**
-- **Description:** Designed a **secure and scalable course registration system** with **JWT-based authentication** and **role-based authorization**.
-- **Infrastructure as Code (IaC):** Implemented **Terraform-based AWS infrastructure** and **automated CI/CD pipelines**.
+### Cruddr — AWS Microservices
+Designed and deployed a production-grade microservices application on AWS (ECS Fargate, RDS, DynamoDB, CloudWatch, X-Ray), with automated CI/CD via GitHub Actions and a secured multi-tier architecture (IAM, VPC, security groups, ALB).
 
-### 🤖 **Chatbot**
-- **Tech Stack:** **Flask, ReactJS, OpenAI API, PostgreSQL, Redis**
-- **Description:** Built an **AI-powered chatbot** that classifies queries and dynamically generates responses.
-- **Impact:** Improved **accuracy by 85%** using **Naive Bayes classifiers** and **automated SQL query generation**.
+### AI Voice & Appointment Scheduling Agent
+Built an end-to-end AI intake agent (Python, OpenAI API) used by 5+ beta clients across healthcare and professional-services verticals, integrating LLM-driven conversation flows with client CRM systems and reducing manual scheduling overhead by 60%.
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Open Source
 
-- **Top 1000 globally in a coding competition with over 25,000 participants**
-- **Reduced technical debt by 20%** by migrating legacy systems to **modern microservices architecture**.
-
----
-
-## 💬 Ask Me About
-- **Backend system optimizations** for high-performance applications.
-- **Cloud infrastructure automation** and **scalable deployment strategies**.
-- **AI-powered automation and workflow optimization**.
+Diagnosed and fixed a data-integrity bug in [Hoppscotch](https://github.com/hoppscotch/hoppscotch) (79.6k★) — cURL import was silently truncating Basic Auth passwords containing colons. [Issue #6403](https://github.com/hoppscotch/hoppscotch/issues/6403).
 
 ---
 
-## 📫 Contact Me
-- **Email:** [pruthviniranjan14@gmail.com](mailto:pruthviniranjan14@gmail.com)
+## 📫 Contact
+- **Email:** pruthviniranjan14@gmail.com
 - **LinkedIn:** [Pruthvi Niranjan](https://www.linkedin.com/in/pruthvi-niranjan/)
-- **GitHub:** [Pruthvi Niranjan](https://github.com/pruthviniranjan)
-
----
-
-## 😄 Fun Fact
-I’m a **three-time National Collegiate Badminton Champion**, demonstrating **discipline, strategy, and resilience**—both in **sports** and **software engineering**!
-
----
-
-Thank you for visiting! Feel free to explore my projects or reach out for collaboration—I’m excited to connect and discuss opportunities to innovate and build impactful solutions. 🚀
