@@ -1,51 +1,86 @@
 # Hi there 👋
 
-I'm **Pruthvi Niranjan**, a Software Engineer building AI-driven backend systems and cloud-native infrastructure — from LLM-integrated production services to distributed microservices architectures.
+I'm **Pruthvi Niranjan**, a Software Engineer passionate about building AI-powered backend systems, distributed data platforms, and production-grade LLM applications. I enjoy solving challenging engineering problems across backend development, cloud infrastructure, and AI—from scalable data pipelines to retrieval-augmented generation (RAG) systems and autonomous developer tools.
 
 ---
 
-## 🔭 What I'm Working On
+## 🚀 What I'm Working On
 
-### 🤖 **Agentic Log Triage Assistant** *(In Progress)*
-Extending my earlier RAG work (DevLog AI) into an agentic system — one that doesn't just answer questions about logs, but autonomously classifies severity, decides when to escalate vs. auto-remediate, and acts through tool-calling with human-in-the-loop approval for irreversible actions. Details and repo coming as the build progresses.
-
----
-
-## 💻 What I Bring to the Table
-
-**Backend & AI Systems**
-Python, Node.js, FastAPI, OpenAI API, RAG pipelines (ChromaDB, semantic retrieval), LLM integration in production services.
-
-**Cloud & Infrastructure**
-AWS (ECS, RDS, DynamoDB, IAM, VPC), Azure, Docker, CI/CD (GitHub Actions), distributed tracing and telemetry.
-
-**Frontend**
-React, TypeScript — built client-facing dashboards for real-time analytics and system configuration.
-
-**Databases**
-PostgreSQL, MySQL, MongoDB, Redis.
+### 🤖 PulseCheck — Autonomous AI Code Review
+Building an AI-powered GitHub App that automatically reviews pull requests using GitHub webhooks, HMAC verification, LLM reasoning, and event-driven AWS architecture. The system combines static analysis with semantic code reviews to provide actionable feedback before human reviewers step in.
 
 ---
 
-## 💡 Projects
+## 💻 Technical Expertise
 
-### DevLog AI — Intelligent Engineering Log Analyzer
-Built a RAG-powered log analysis tool using ChromaDB and OpenAI GPT models to let engineers query technical logs in plain English, containerized with Docker behind a FastAPI REST interface. Cut debugging and lookup time by 2+ hours/day in testing.
+### AI & Backend Engineering
+- Python, FastAPI, Java
+- OpenAI APIs & GPT models
+- Retrieval-Augmented Generation (RAG)
+- Embeddings & Vector Search
+- Prompt Engineering
+- LLM Evaluation
 
-### Cruddr — AWS Microservices
-Designed and deployed a production-grade microservices application on AWS (ECS Fargate, RDS, DynamoDB, CloudWatch, X-Ray), with automated CI/CD via GitHub Actions and a secured multi-tier architecture (IAM, VPC, security groups, ALB).
+### Cloud & Infrastructure
+- AWS (Lambda, API Gateway, EC2, SQS, S3)
+- Docker
+- Kubernetes
+- GitHub Actions
+- Terraform
+- CI/CD
+- Linux
 
-### AI Voice & Appointment Scheduling Agent
-Built an end-to-end AI intake agent (Python, OpenAI API) used by 5+ beta clients across healthcare and professional-services verticals, integrating LLM-driven conversation flows with client CRM systems and reducing manual scheduling overhead by 60%.
+### Data Engineering
+- Snowflake
+- PostgreSQL
+- Redis
+- MongoDB
+- Kafka
+- Elasticsearch
+- Distributed event-driven systems
 
 ---
 
-## 🏆 Open Source
+## 💡 Featured Projects
 
-Diagnosed and fixed a data-integrity bug in [Hoppscotch](https://github.com/hoppscotch/hoppscotch) (79.6k★) — cURL import was silently truncating Basic Auth passwords containing colons. [Issue #6403](https://github.com/hoppscotch/hoppscotch/issues/6403).
+### 🚀 PulseCheck — Autonomous AI Code Review
+An AI-powered GitHub App that authenticates GitHub webhooks using HMAC signatures, retrieves pull request diffs through GitHub APIs, and performs dual-pass reviews using static analysis and LLM reasoning. Built on an event-driven AWS architecture with Lambda, API Gateway, and SQS for scalable asynchronous processing.
+
+### 📊 DevLog AI — RAG-Based Log Analysis
+Designed a production-style log analysis platform using OpenAI embeddings, semantic search, ChromaDB, FastAPI, and Docker. Engineers can query logs in natural language, reducing debugging and log lookup time by over two hours per day.
 
 ---
 
-## 📫 Contact
-- **Email:** pruthviniranjan14@gmail.com
-- **LinkedIn:** [Pruthvi Niranjan](https://www.linkedin.com/in/pruthvi-niranjan/)
+## 💼 Professional Experience
+
+At **StemLink Automation**, I build AI-ready data infrastructure that powers production conversational AI systems.
+
+- Process **5M+ conversation events daily**
+- Reduced ingestion latency by **80%**
+- Increased pipeline throughput by **6×**
+- Built production RAG pipelines over **10,000+** customer knowledge articles
+- Reduced LLM hallucinations by **40%**
+- Improved deployment reliability to **99.9%** using Kubernetes and CI/CD
+
+---
+
+## 🌟 Open Source
+
+Contributed to **Hoppscotch** by diagnosing and fixing a data integrity bug affecting cURL Basic Authentication imports. The fix preserves passwords containing colons, includes regression tests, and has been merged upstream.
+
+---
+
+## 🎓 Education
+
+**M.S. Software Engineering Systems**  
+Northeastern University
+
+**B.Tech. Computer Science**  
+PES University
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **Email:** pruthviniranjan14@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/pruthvi-niranjan/
